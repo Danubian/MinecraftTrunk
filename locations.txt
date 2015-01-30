@@ -1,0 +1,3 @@
+Mining Area: -914, 11, -205
+
+zachripp's house: -372, 103, 269
